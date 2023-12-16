@@ -1,6 +1,4 @@
-### Hello there 👋
-
-<img src="https://profile-counter.glitch.me/SERDUSSS/count.svg">
+## Hello there 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/SERDUSSS.svg?style=social&label=Followers)](https://github.com/SERDUSSS?tab=followers)
 
