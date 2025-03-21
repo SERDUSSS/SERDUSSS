@@ -7,9 +7,9 @@
   <p align="center">
     <a href="https://skillicons.dev">
       <h3>Languages: </h3>
-      <img src="https://skillicons.dev/icons?i=c,cpp,rust,bash,py,css,html,js&perline=13" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,bash,py,powershell,css,html,js&perline=13" />
       <h3>Tools & Systems</h3>
-      <img src="https://skillicons.dev/icons?i=linux,arch,kali,ubuntu,git,md,powershell,neovim,vim,vscode,obsidian,tauri,windows&perline=13" />
+      <img src="https://skillicons.dev/icons?i=linux,arch,kali,ubuntu,git,github,md,neovim,vim,vscode,obsidian,tauri,windows&perline=13" />
     </a>
   </p>
 </div>
