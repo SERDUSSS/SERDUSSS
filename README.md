@@ -1,48 +1,17 @@
-## Hello there 👋
-
-[![GitHub followers](https://img.shields.io/github/followers/SERDUSSS.svg?style=social&label=Followers)](https://github.com/SERDUSSS?tab=followers)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=I'm+SERDUSSS!;I'm+a+Cibersecurity+student...;I+live+in+Spain;I+love+to+learn;To+know+more+keep+scrolling!)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=SERDUSSS&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-
-<h3> Here's some info about me: </h3>
-
-- 🔭 I’m studiying for HackTheBox Certified Penetration Tester Specialist (CPTS)
-- 🌱 I've 4+ years experience in Python and 2+ experience in Rust.
-- 👯 I’m looking to anyone who wants to study with me or has a proposition.
-- 💬 Ask me about Cibersecurity or Programming.
-
-### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SERDUSSS&theme=dark" alt="SERDUSSS"  /></p>
-
-<hr>
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SERDUSSS&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=SERDUSSS&show_icons=true&locale=en&theme=dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
-<hr>
-
-### 👉 Programming languages
-
-<p align="left"> 
-  
-&emsp;
-<a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+<div align=center>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=PT+Sans&size=40&duration=4000&pause=2000&color=5D5D5D&center=true&vCenter=true&width=435&lines=Stay+hungry%2C+stay+foolish." alt="Typing" />
   </a>
-  &emsp;
-<a href="https://www.java.com/en/">
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-ED8B00?style=for-the-badge&logo=rust&logoColor=white"/>
-  </a>
-</p>
-    
-</p>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=SERDUSSS&theme=dark" />
-
-
-<br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=whitepaper233&theme=flat&margin-w=33&no-frame=true&no-bg=true&title=MultiLanguage,Organizations,Commits,PullRequest,Repositories,Experience,Stars,Followers" alt="Trophy" width="96.5%">
+  <img src="/github-metrics.svg" alt="Metrics" width="96.5%">
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <h3>Languages: </h3>
+      <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,dart,go,html,java,js,kotlin,py,ts,ocaml&perline=13" />
+      <h3>Platforms & Frameworks: </h3>
+      <img src="https://skillicons.dev/icons?i=astro,dotnet,express,fastapi,flask,flutter,nodejs,prisma,react,vue,svelte,tailwind,remix,yarn&perline=13" />
+      <h3>Tools & Systems</h3>
+      <img src="https://skillicons.dev/icons?i=ae,apple,bash,docker,git,pnpm,idea,linux,md,mongodb,nginx,ps,postgres,powershell,pr,pycharm,redis,rider,vercel,vscode,windows&perline=13" />
+    </a>
+  </p>
+</div>
