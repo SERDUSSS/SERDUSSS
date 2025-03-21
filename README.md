@@ -7,11 +7,11 @@
   <p align="center">
     <a href="https://skillicons.dev">
       <h3>Languages: </h3>
-      <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,dart,go,html,java,js,kotlin,py,ts,ocaml&perline=13" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,rust,bash,py,css,html,js&perline=13" />
       <h3>Platforms & Frameworks: </h3>
       <img src="https://skillicons.dev/icons?i=astro,dotnet,express,fastapi,flask,flutter,nodejs,prisma,react,vue,svelte,tailwind,remix,yarn&perline=13" />
       <h3>Tools & Systems</h3>
-      <img src="https://skillicons.dev/icons?i=ae,apple,bash,docker,git,pnpm,idea,linux,md,mongodb,nginx,ps,postgres,powershell,pr,pycharm,redis,rider,vercel,vscode,windows&perline=13" />
+      <img src="https://skillicons.dev/icons?i=linux,arch,kali,,ubuntu,git,md,ps,powershell,neovim,vim,vscode,obsidian,tauri,windows&perline=13" />
     </a>
   </p>
 </div>
